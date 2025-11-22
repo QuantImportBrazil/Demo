@@ -2,14 +2,13 @@
 
 ---
 
-## Demo — Visualização das Projeções
+### Demonstrações Disponíveis  
+
+Nesta seção estão visualizações de exemplos das projeções e análises geradas pelos modelos da QuantImport.  
 
 > **Emissão:** 10-2025  
 
-Nesta seção estão visualizações de exemplos das projeções geradas pelos modelos da QuantImport.
-
-### Demonstrações Disponíveis
-- Importação de fertilizantes: [Acesse a demo de Fertilizantes](https://quantimportbrazil.github.io/Demo_Fertilizantes/)
+- Importação de fertilizantes: [Acesse a demo](https://quantimportbrazil.github.io/Demo_Fertilizantes/)
 
 ---
 
