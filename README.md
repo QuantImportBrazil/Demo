@@ -4,11 +4,12 @@
 
 ### Demonstrações Disponíveis  
 
-Nesta seção estão visualizações de exemplos das projeções e análises geradas pelos modelos da QuantImport.  
+> **Emissão:** 10-2025
 
-> **Emissão:** 10-2025  
-
-- Importação de fertilizantes: [Acesse a demo](https://quantimportbrazil.github.io/Demo_Fertilizantes/)
+Acesse:
+- [Importação de fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
+- [Importação de defensivos](https://quantimportbrazil.github.io/Demo_defensivos/)
+  
 
 ---
 
