@@ -3,6 +3,12 @@
 ---
 
 ### Demonstrações Disponíveis  
+---
+
+## Observações
+- As páginas a seguir apresentam exemplos ilustrativos das projeções; não substitui relatórios formais.  
+- Para reproduzir as análises ou solicitar dados específicos, entre em contato.
+
 
 > **Emissão:** 10-2025
 
