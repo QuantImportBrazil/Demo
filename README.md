@@ -14,7 +14,7 @@
 
 Acesse:
 - [Importação de fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
-- [Importação de defensivos](https://quantimportbrazil.github.io/Demo_defensivos/)- 
+- [Importação de defensivos](https://quantimportbrazil.github.io/Demo_defensivos/) 
   
 
 ---
