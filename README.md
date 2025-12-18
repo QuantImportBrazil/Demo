@@ -5,12 +5,15 @@
 ### Demonstrações Disponíveis  
 ---
 
-## Observações
-- As páginas a seguir apresentam exemplos ilustrativos das projeções; não substitui relatórios formais.  
-- Para reproduzir as análises ou solicitar dados específicos, entre em contato.
+## Observações  
+- Natureza dos Dados: As páginas a seguir apresentam exemplos ilustrativos das projeções; não substituem relatórios formais.  
+
+- Otimização e Precisão: A exatidão das projeções pode ser refinada mediante o processo de tuning de hiperparâmetros, o que resulta na redução dos intervalos de confiança. Este ajuste fino é realizado sob demanda, conforme a necessidade específica do interessado.  
+
+- Consultoria: Para reproduzir as análises, solicitar dados específicos ou orçar a otimização dos modelos, entre em contato.  
 
 
-> **Emissão:** 10-2025
+> **Emissão:** 11-2025
 
 Acesse:
 - [Importação de fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
