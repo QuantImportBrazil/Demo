@@ -15,7 +15,7 @@
 - Consultoria: Para reproduzir as análises, solicitar dados específicos ou orçar a otimização dos modelos, entre em contato.  
 
 
-> **Emissão:** 11-2025
+> **Emissão:** 12-2025
 
 Acesse:
 - [Importação de fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
