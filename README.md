@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
 
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**
@@ -16,10 +16,12 @@
 - Consultoria: Para reproduzir as análises, solicitar dados específicos ou orçar a otimização dos modelos, entre em contato.  
 
 
-> **Emissão:** 12-2025
+> **Emissão:** 1-2026
 
-Acesse:
-- [Importação de fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
+Acesse:  
+- [Importação de Fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
+- [Importação de Defensivos Agrícolas](https://quantimportbrazil.github.io/Demo_defensivos/)
+- [Exportação de Soja](https://quantimportbrazil.github.io/Demo_soja/)
 
 ---
 
