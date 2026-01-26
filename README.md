@@ -20,7 +20,6 @@
 
 Acesse:  
 - [Importação de Fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
-- [Importação de Defensivos Agrícolas](https://quantimportbrazil.github.io/Demo_defensivos/)
 - [Exportação de Soja](https://quantimportbrazil.github.io/Demo_soja/)
 
 ---
