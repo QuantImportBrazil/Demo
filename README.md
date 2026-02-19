@@ -15,9 +15,7 @@
 - **Precisão e otimização:** A acurácia das projeções pode ser significativamente aprimorada por meio de **tuning de hiperparâmetros**, resultando em intervalos de confiança mais estreitos. Esse ajuste fino é realizado **sob demanda**, conforme o objetivo analítico do cliente.
 
 - **Consultoria:** Para reproduzir as análises, solicitar dados específicos ou orçar a customização e otimização dos modelos, entre em contato.
-
-> **Emissão:** 1-2026
-
+  
 ---
 
 ## Acesse as Demos
