@@ -21,7 +21,7 @@
 ## Acesse as Demos
 
 - [Importação de Fertilizantes](https://quantimportbrazil.github.io/Demo_fertilizantes/)
-- [Exportação de Soja](https://quantimportbrazil.github.io/Demo_soja/)
+- [Exportação de Produtos Agrícolas](https://quantimportbrazil.github.io/Demo_produtos_agricolas/)
 
 ---
 
