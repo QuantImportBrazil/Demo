@@ -24,6 +24,8 @@ Isso evidencia que o sistema desenvolvido apresenta consistência preditiva supe
 - **Precisão e otimização:** A acurácia das projeções pode ser significativamente aprimorada por meio de **tuning de hiperparâmetros**, resultando em intervalos de confiança mais estreitos. Esse ajuste fino é realizado **sob demanda**, conforme o objetivo analítico do cliente.
 
 - **Consultoria:** Para reproduzir as análises, solicitar dados específicos ou orçar a customização e otimização dos modelos, entre em contato.
+
+- **Análise da Importância dos Fatores:** Sobre solicitação é possível identificar o 'rank' da importância dos fatores que influenciaram cada uma das previsões.
   
 ---
 
