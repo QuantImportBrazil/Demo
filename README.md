@@ -7,15 +7,11 @@
 
 ### Síntese dos Resultados:  
 
-* O modelo de previsão desenvolvido demontra consistentemente desempenho superiorem ao obtidos pelo o método tradicional (regressão linear).  
+* O modelo de previsão multivariada demonstra desempenho superior aos obtido pelo o método tradicional (regressão linear).  
 
 ---  
 
-### Demonstrações Disponíveis  
-
----  
-
-### Observações  
+### Observações:  
 
 * Demonstrações ilustrativas. Não substituem relatórios formais.  
 * A exatidão pode ser aprimorada **sob demanda**.  
@@ -23,7 +19,7 @@
   
 ---  
 
-### Acesse as Demos  
+### Acesse:    
 * [Previsão de importação de fertilizantes](https://quantimportbrazil.github.io/demo_import_fertilizantes/)
 * [Previsão de exportação de produtos agrícolas](https://quantimportbrazil.github.io/demo_export_agricolas/)
 
