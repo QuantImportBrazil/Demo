@@ -7,7 +7,7 @@
 
 ### Síntese dos Resultados:  
 
-* O modelo de previsão multivariada demonstra desempenho superior aos obtido pelo o método tradicional (regressão linear).  
+* O modelo proprietário demonstra consistentemente desempenho superior sobre o método tradicional (regressão linear).  
 
 ---  
 
