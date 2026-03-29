@@ -30,5 +30,7 @@ As demonstrações podem ser aprimoradas sob demanda, com ajustes direcionados d
 
 ### Contato  
 
+### Contato  
+
 André Coutinho Bueno  
-andre.bueno@quantimport.com.br  
+[andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
