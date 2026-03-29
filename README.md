@@ -5,39 +5,30 @@
 
 ---  
 
-### Objetivo  
+As demonstrações abaixo têm um objetivo simples: verificar se há informação útil nas variáveis explicativas além do tempo.
 
-Evidenciar que o modelo proprietário captura informação relevante além da dimensão temporal.
+Para isso, comparamos dois tipos de previsão:  
+- uma baseada apenas no tempo (regressão linear)  
+- outra incorporando múltiplas variáveis (*machine learning*)  
 
----  
+Nos casos apresentados, o modelo de *machine learning* apresenta erro consistentemente menor.  
 
-### Evidência  
-
-Nos casos apresentados, o modelo de *machine learning* (ML) apresentou erro **consistentemente inferior** ao da regressão linear (LR), utilizada como referência baseada apenas no tempo.
-
----  
-
-### Interpretação  
-
-O ganho sobre a LR indica que o modelo incorpora, de forma efetiva, informação contida nas variáveis explicativas.
+Isso indica que há sinal sendo capturado fora da dimensão temporal — ou seja, as variáveis explicativas estão, de fato, contribuindo para a previsão.
 
 ---  
 
-### Potencial de Melhoria  
-
-A exatidão pode ser ampliada com foco em combinações específicas (mês/local/produto), permitindo ajustes mais precisos de dados e modelagem.
+As demonstrações podem ser aprimoradas sob demanda, com ajustes direcionados de dados e modelagem.
 
 ---  
 
-### Acesse as Demonstrações  
+### Demonstrações  
 
-* [Previsão de importação de fertilizantes](https://quantimportbrazil.github.io/demo_import_fertilizantes/)  
-* [Previsão de exportação de produtos agrícolas](https://quantimportbrazil.github.io/demo_export_agricolas/)  
+* https://quantimportbrazil.github.io/demo_import_fertilizantes/  
+* https://quantimportbrazil.github.io/demo_export_agricolas/  
 
 ---  
 
 ### Contato  
 
-**André Coutinho Bueno**  
-Cientista de Dados e Fundador  
-📩 andre.bueno@quantimport.com.br  
+André Coutinho Bueno  
+andre.bueno@quantimport.com.br  
