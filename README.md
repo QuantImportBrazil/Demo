@@ -23,8 +23,8 @@ As demonstrações podem ser aprimoradas sob demanda, com ajustes direcionados d
 
 ### Demonstrações  
 
-* https://quantimportbrazil.github.io/demo_import_fertilizantes/  
-* https://quantimportbrazil.github.io/demo_export_agricolas/  
+* [Importação de fertilizantes](https://quantimportbrazil.github.io/demo_import_fertilizantes/)  
+* [Exportações agrícolas](https://quantimportbrazil.github.io/demo_export_agricolas/)  
 
 ---  
 
