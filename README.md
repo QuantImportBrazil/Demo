@@ -5,30 +5,52 @@
 
 ---  
 
-### Síntese dos Resultados:  
+### Objetivo  
 
-* O modelo proprietário demonstra consistentemente desempenho superior sobre o método tradicional (regressão linear).  
+Demonstrar que o modelo proprietário é capaz de **capturar informação relevante em múltiplas variáveis explicativas**, indo além de abordagens baseadas exclusivamente no tempo.
 
 ---  
 
-### Observações:  
+### Evidência  
 
-* Demonstrações ilustrativas. Não substituem relatórios formais.  
-* A exatidão pode ser aprimorada **sob demanda**.  
-* Para reproduzir as análises, solicitar dados específicos ou orçar a customização e otimização dos modelos, entre em contato.  
-  
+Nos casos apresentados, as previsões com *machine learning* (ML) apresentaram **erro consistentemente inferior** às previsões baseadas apenas na componente temporal, representada aqui pela regressão linear (LR).  
+
+Esse resultado indica que o modelo está, de forma consistente, **extraindo sinal adicional das variáveis explicativas**, e não apenas reproduzindo padrões de tendência ao longo do tempo.
+
 ---  
 
-### Acesse:    
-* [Previsão de importação de fertilizantes](https://quantimportbrazil.github.io/demo_import_fertilizantes/)
-* [Previsão de exportação de produtos agrícolas](https://quantimportbrazil.github.io/demo_export_agricolas/)
+### Interpretação  
 
----
+A regressão linear funciona, neste contexto, como um *benchmark* simples:  
+uma previsão baseada somente no tempo.  
+
+Superar esse benchmark de forma recorrente sugere que o modelo consegue incorporar, com sucesso, informações presentes em outras dimensões dos dados.
+
+---  
+
+### Potencial de Melhoria  
+
+A exatidão das previsões pode ser **substancialmente aprimorada** quando o modelo é direcionado para uma combinação categórica específica (mês/local/produto), permitindo:  
+
+* tratamento mais preciso de outliers  
+* melhor adequação das variáveis explicativas  
+* ajustes mais finos de modelagem  
+
+---  
+
+### Acesse as Demonstrações  
+
+* [Previsão de importação de fertilizantes](https://quantimportbrazil.github.io/demo_import_fertilizantes/)  
+* [Previsão de exportação de produtos agrícolas](https://quantimportbrazil.github.io/demo_export_agricolas/)  
+
+---  
 
 ### Contato  
 
-Para dúvidas sobre as demonstrações, dados ou modelos:  
+Para mais informações ou aplicações específicas:  
 
 **André Coutinho Bueno**  
 Cientista de Dados e Fundador  
 📩 andre.bueno@quantimport.com.br  
+
+---  
